@@ -1,0 +1,21 @@
+
+q
+Aapp/src/test/java/pb/edu/pb/zadanie3_mobilki/ExampleUnitTest.java,5\e\5e23eebc1670335a7e530ef680052a5054815302
+n
+>app/src/main/java/pb/edu/pb/zadanie3_mobilki/TaskFragment.java,6\0\606a5a9fc5292fdc75e727a79bd3ef2196ded198
+r
+Bapp/src/main/java/pb/edu/pb/zadanie3_mobilki/TaskListActivity.java,c\e\ce54ace1f63408d726c4b3471de57a4818a27cb9
+m
+=app/src/main/java/pb/edu/pb/zadanie3_mobilki/TaskStorage.java,3\5\358a9e67ed8f905daba9b0970e73d299ca8c22e6
+x
+Happ/src/main/java/pb/edu/pb/zadanie3_mobilki/SingleFragmentActivity.java,d\7\d739610461d0235158e8390b8e2c41a18454f2ac
+f
+6app/src/main/java/pb/edu/pb/zadanie3_mobilki/Task.java,d\f\dfe86a97ac798f6d1a2c1ac446c268917c467092
+r
+Bapp/src/main/java/pb/edu/pb/zadanie3_mobilki/TaskListFragment.java,f\3\f374b91871b2268f5f0992b188454e554fea0655
+€
+Papp/src/androidTest/java/pb/edu/pb/zadanie3_mobilki/ExampleInstrumentedTest.java,5\c\5c1708976f91273ed0a374cffea247145929ac42
+n
+>app/src/main/java/pb/edu/pb/zadanie3_mobilki/MainActivity.java,e\2\e22042be844f2b7c6abe8c22fd71c967b3f1793e
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
